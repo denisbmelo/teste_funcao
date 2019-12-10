@@ -1,0 +1,3 @@
+﻿create Table CLIENTES
+
+ID 
